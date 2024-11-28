@@ -1,6 +1,6 @@
 # Steganography Tool 🖼️
 
-[![Developer](https://img.shields.io/badge/Developer-YourName-crimson)](https://github.com/YourGitHubUsername)  
+[![Developer](https://img.shields.io/badge/Developer-YourName-crimson)](https://github.com/Basilabt)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/YourGitHubUsername/SteganographyTool/blob/main/LICENSE)  
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)  
 ![Language](https://img.shields.io/badge/language-C++-blue)
