@@ -27,7 +27,7 @@ This **Steganography Tool** allows you to hide text in images using **Least Sign
 
 - Installation
 ```
-git clone https://github.com/YourGitHubUsername/SteganographyTool.git
+git clone https://github.com/Basilabt/Stegonography_Tool/tree/main
 ```
 
  -  Step-by-step instructions to install the tool are in the `PleaseReadMeFile.txt`
