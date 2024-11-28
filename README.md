@@ -1,10 +1,9 @@
 # Steganography Tool 🖼️
 
-[![Developer](https://img.shields.io/badge/Developer-YourName-crimson)](https://github.com/Basilabt)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/YourGitHubUsername/SteganographyTool/blob/main/LICENSE)  
-![Version](https://img.shields.io/badge/version-1.0-brightgreen)  
+[![Developer](https://img.shields.io/badge/Developer-Basilabt-crimson)](https://github.com/Basilabt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Basilabt/Stegonography_Tool/blob/main/README.md)
+![Version](https://img.shields.io/badge/version-1.1-brightgreen)
 ![Language](https://img.shields.io/badge/language-C++-blue)
-
 
 ## 🔍 Preview
 ![Testing_2LSB](https://github.com/user-attachments/assets/3394ed1a-510f-48ae-9e1d-0c41b919ef91)
